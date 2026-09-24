@@ -4,7 +4,11 @@ For this project, I fine-tuned a model to predict how Reddit's AITA community wo
 
 The fine-tuned model got **7 out of 30 test posts right (23.3%)**. The Groq baseline got **14 out of 30 right (46.7%)**. Fine-tuning did not improve the results in this run.
 
-**Demo video:** Still needs to be recorded and linked here (3–5 minutes).
+**Demo video:** 
+
+https://github.com/user-attachments/assets/1e2b84f6-eccc-4fc9-bf31-070ec778f547
+
+
 
 ## Community and labels
 
