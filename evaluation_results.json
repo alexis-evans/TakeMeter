@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.4667,
+  "finetuned_accuracy": 0.2333,
+  "improvement": -0.2333,
+  "test_set_size": 30,
+  "label_map": {
+    "nta": 0,
+    "yta": 1,
+    "esh": 2,
+    "nah": 3
+  },
+  "model": "distilbert-base-uncased"
+}
